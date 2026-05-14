@@ -29,3 +29,8 @@
 ## Projektmanagement
 - Jira
 - Trello
+
+## Sicherheit
+- JWT-basierte Authentifizierung
+- HTTPS
+- Passwort-Hashing mit bcrypt
