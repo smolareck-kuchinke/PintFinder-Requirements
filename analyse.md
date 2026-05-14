@@ -90,6 +90,42 @@ Für PintFinder wurden funktionale und nichtfunktionale Anforderungen definiert.
 - Datenschutzkonformität
 - Skalierbarkeit der Plattform
 
+- ## 6. Rechtlich-regulatorische Ebene
+
+Das Projekt verarbeitet personenbezogene Daten und muss daher rechtliche Anforderungen berücksichtigen.
+
+### Datenschutz
+Die Speicherung von Benutzerkonten, Bewertungen und Standortdaten unterliegt den Anforderungen der DSGVO.
+
+### Bildrechte
+Beim Hochladen von Bildern müssen Urheberrechte sowie Persönlichkeitsrechte berücksichtigt werden.
+
+### Moderation
+Kommentare und Bewertungen müssen moderiert werden, um rechtswidrige oder beleidigende Inhalte zu vermeiden.
+
+### API-Nutzung
+Die Nutzung externer Dienste wie Google Maps unterliegt zusätzlichen Nutzungsbedingungen und möglichen Kostenmodellen.
+
+---
+
+## 7. Ethics & Trustworthy AI
+
+Im Projekt sollen KI-Funktionen verantwortungsvoll eingesetzt werden.
+
+### Transparenz
+Empfehlungen und KI-generierte Inhalte sollen nachvollziehbar bleiben und den Nutzern transparent dargestellt werden.
+
+### Vermeidung von Bias
+Bewertungssysteme und KI-Empfehlungen dürfen einzelne Bars oder Nutzer nicht unfair bevorzugen oder benachteiligen.
+
+### Vertrauenswürdigkeit
+Die Plattform soll ehrliche Bewertungen fördern und Manipulationen durch Fake-Accounts verhindern.
+
+### Datenschutz
+KI-Systeme dürfen personenbezogene Daten nur im notwendigen Umfang verarbeiten.
+
+---
+
 ### Priorisierung
 Die wichtigsten Kernfunktionen wurden zunächst als MVP (Minimum Viable Product) priorisiert. Dazu gehören Registrierung, Bewertungen und Kartenfunktionen.
 
