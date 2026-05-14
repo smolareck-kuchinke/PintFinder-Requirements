@@ -20,5 +20,5 @@ Die Plattform soll stärker community-orientiert werden und den Nutzern mehr Int
 ## Risiken
 - Moderation von Kommentaren und mögliche Veröffentlichung unangemessener Inhalte
 - Missbrauch von Benutzerkonten durch schwache Passwörter
-- Upload schädlicher Dateien über die Bild-Upload-Funktion
+- Upload schädlicher Dateien über die Bild-Upload-Funktion (SQL-Injection)
 - Fake accounts
