@@ -1,4 +1,4 @@
-# Einsendeaufgabe REQ-E1
+# Einsendeaufgabe REQ-E1 in Softwaretechnik
 ## PintFinder-Requirements Projekt
 
 # Projektbeschreibung
