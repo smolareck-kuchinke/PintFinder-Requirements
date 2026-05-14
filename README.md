@@ -2,7 +2,7 @@
 ## PintFinder-Requirements Projekt
 
 # Projektbeschreibung
-PintFinder ist eine App zur Bewertung von Guinness-Bieren in Berliner Bars, Pubs und Kneipen. Benutzer können Bars finden, Guinness bewerten, Bilder hochladen und über eine Kartenansicht direkt zu einer Bar navigieren.
+PintFinder ist eine Seite zur Bewertung von Guinness-Bieren in Berliner Bars, Pubs und Kneipen. Benutzer können Bars finden, Guinness bewerten, Bilder hochladen und über eine Kartenansicht direkt zu einer Bar navigieren.
 
 ---
 
