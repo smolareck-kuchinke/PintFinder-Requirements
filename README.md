@@ -38,7 +38,7 @@ Im Projekt wurden verschiedene Beschreibungsattribute verwendet:
 - Beschreibung
 - Priorität
 - Stakeholder
-- Akzeptanzkriterien
+- Abnahme-/Akzeptanzkriterien
 - Status
 - Kategorie
 - Abhängigkeiten
