@@ -26,7 +26,7 @@ Folgende Requirements wurden erstellt und dokumentiert:
 - REQ-004 Kartenansicht Berliner Pubs
 - REQ-005 Google Maps Navigation
 - REQ-006 Bar-Suche
-- REQ-007 Kommentar-System
+- (Idee Kommentarsystem)
 
 ---
 
