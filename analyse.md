@@ -68,3 +68,29 @@ Die Plattform verarbeitet Standortinformationen von Bars sowie optionale Geoloka
 
 ### Metadaten
 Zusätzlich entstehen technische Metadaten wie Zeitstempel, Logdaten und API-Anfragen.
+
+
+## 5. Anforderungsebene
+
+Für PintFinder wurden funktionale und nichtfunktionale Anforderungen definiert.
+
+### Funktionale Anforderungen
+- Benutzerregistrierung
+- Guinness-Bewertungssystem
+- Bild-Upload
+- Kartenansicht Berliner Pubs
+- Google-Maps-Navigation
+- Suchfunktion
+- Kommentar-System
+
+### Nichtfunktionale Anforderungen
+- hohe Benutzerfreundlichkeit
+- schnelle Ladezeiten
+- sichere Authentifizierung
+- Datenschutzkonformität
+- Skalierbarkeit der Plattform
+
+### Priorisierung
+Die wichtigsten Kernfunktionen wurden zunächst als MVP (Minimum Viable Product) priorisiert. Dazu gehören Registrierung, Bewertungen und Kartenfunktionen.
+
+---
