@@ -52,6 +52,9 @@ Im Projekt wurden verschiedene Beschreibungsattribute verwendet:
 ## Trello Board
 ![Trello Board](images/trello-board.png)
 
+## Trello Requirement
+![Trello Requirement](images/trello-karte.png)
+
 ## Jira Board
 ![Jira Board](images/jira-board.png)
 
