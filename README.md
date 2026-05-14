@@ -43,7 +43,7 @@ Im Projekt wurden verschiedene Beschreibungsattribute verwendet:
 - Kategorie
 - Abhängigkeiten
 - juristische Relevanz
-- Referenzen
+
 
 ---
 
