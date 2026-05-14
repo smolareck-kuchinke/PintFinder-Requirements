@@ -6,7 +6,7 @@ Die Anforderungen sollen hinsichtlich Funktionalität, Verständlichkeit und Nut
 ## Validierungsmethoden
 - Review der Requirements in Jira
 - Überprüfung der Akzeptanzkriterien
-- Diskussion der Anforderungen im Team
+- Diskussion und Priorisierung der Anforderungen anhand fachlicher und technischer Kriterien
 - Visuelle Kontrolle der Workflows in Trello und Jira
 
 ## Validierte Anforderungen
