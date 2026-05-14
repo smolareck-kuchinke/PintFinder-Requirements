@@ -246,26 +246,23 @@ Der Einsatz von KI bringt zusätzliche Risiken mit sich:
 
 ---
 
-## 13. Verwendete AI-Prompts
 
-Für die Erstellung und Strukturierung der Analyse wurde ChatGPT unterstützend eingesetzt.
-
-Beispiele für verwendete Prompts:
-
-- „Erstelle funktionale Anforderungen für eine Guinness-Bewertungsplattform.“
-- „Welche Sicherheitsrisiken existieren bei Bild-Uploads?“
-- „Erstelle Akzeptanzkriterien für eine Kartenansicht.“
-- „Welche KI-Funktionen wären für eine Community-Plattform sinnvoll?“
-- „Wie könnte eine Startup-Roadmap für PintFinder aussehen?“
-
-Die KI wurde unterstützend zur Strukturierung, Ideenfindung und Formulierung genutzt. Die finale Auswahl und Anpassung der Inhalte erfolgte eigenständig.
-
----
-
-## 14. Fazit
+## 13. Fazit
 
 Die Analyse von PintFinder zeigt, dass bereits in frühen Projektphasen unterschiedliche technische, organisatorische, rechtliche und sicherheitsrelevante Aspekte berücksichtigt werden müssen.
 
 Durch den Einsatz von Jira, Trello und GitHub konnten Anforderungen strukturiert dokumentiert und analysiert werden. Besonders wichtig waren dabei Datenschutz, Sicherheit, Benutzerfreundlichkeit und Skalierbarkeit der Plattform.
 
 Die Erweiterung um KI-Funktionen zeigt mir zusätzlich, dass moderne Softwareprojekte zunehmend Anforderungen im Bereich AI berücksichtigen müssen.
+
+----
+
+U.a. verwendete AI-Prompts von ChatGPT
+
+
+- „Erstelle funktionale Anforderungen für eine Guinness-Bewertungsplattform.“
+- „Welche Sicherheitsrisiken existieren bei Bild-Uploads aus IT-Sicherheitssicht?“
+- „Erstelle Akzeptanzkriterien für eine Kartenansicht.“
+- „Welche KI-Funktionen wären für eine Community-Plattform sinnvoll?“
+- „Wie könnte eine Startup-Roadmap für PintFinder aussehen?“
+
