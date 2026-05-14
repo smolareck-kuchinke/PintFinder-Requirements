@@ -130,3 +130,43 @@ KI-Systeme dürfen personenbezogene Daten nur im notwendigen Umfang verarbeiten.
 Die wichtigsten Kernfunktionen wurden zunächst als MVP (Minimum Viable Product) priorisiert. Dazu gehören Registrierung, Bewertungen und Kartenfunktionen.
 
 ---
+
+## 8. Sicherheitsebene
+
+Für PintFinder bestehen verschiedene sicherheitsrelevante Anforderungen.
+
+### Authentifizierung
+Benutzerkonten müssen gegen unbefugte Zugriffe geschützt werden. Passwörter sollen sicher gespeichert und gehasht werden.
+
+### Schutz vor Missbrauch
+Die Plattform muss gegen Spam, Fake-Bewertungen und automatisierte Bot-Angriffe abgesichert werden.
+
+### Sichere Bild-Uploads
+Beim Upload von Bildern müssen schädliche Dateien und unsichere Dateiformate erkannt und blockiert werden.
+
+### API-Sicherheit
+Externe APIs wie Google Maps müssen sicher eingebunden und API-Schlüssel geschützt gespeichert werden.
+
+### Datenschutz und Zugriffskontrolle
+Nur berechtigte Benutzer dürfen auf bestimmte Daten oder Verwaltungsfunktionen zugreifen.
+
+---
+
+## 9. Qualitätssicherungsebene
+
+Zur Sicherung der Softwarequalität werden unterschiedliche Maßnahmen eingesetzt.
+
+### Reviews
+Requirements und Anforderungen werden regelmäßig überprüft und aktualisiert.
+
+### Akzeptanzkriterien
+Für zentrale Funktionen wurden Akzeptanzkriterien definiert, um Anforderungen messbar zu machen.
+
+### Tests
+Wichtige Funktionen wie Login, Bewertungen und Uploads sollen getestet werden.
+
+### Versionsverwaltung
+Git und GitHub ermöglichen die Nachvollziehbarkeit von Änderungen und unterstützen die Zusammenarbeit.
+
+### Iterative Verbesserung
+Durch agile Entwicklung und Feedback können Anforderungen schrittweise verbessert werden.
