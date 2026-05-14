@@ -1,4 +1,4 @@
-# Roadmap – PintFinder
+# Roadmap: PintFinder
 
 ## Kleinste funktionsfähige Version
 - Benutzerregistrierung
